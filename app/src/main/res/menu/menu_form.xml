@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itmList"
+        android:title="@string/itmList"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/itmForm"
+        android:title="@string/text_form"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/itmEditarEliminar2"
+        android:title="@string/itmeEditarEliminar"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/itmExit"
+        android:title="@string/itmExit"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>

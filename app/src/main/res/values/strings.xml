@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EncuestasEstudiantesRodrigo</string>
+    <string name="text_version">UdelP Estudiantes</string>
+    <string name="text_home">Inicio</string>
+    <string name="text_Edit_Delete">Editar/Eliminar</string>
+    <string name="text_Edit">Editar</string>
+    <string name="text_detail">Detalle</string>
+    <string name="text_form">Forma</string>
+    <string name="text_list_view">Listas</string>
+    <string name="text_my_form">Forma</string>
+    <string name="text_hint_name">Pon tu nombre</string>
+    <string name="text_image_description">Logo</string>
+    <string name="UnfinishedStudies">Trunco</string>
+    <string name="UniversityIntern">Pasante</string>
+    <string name="FinishedStudies">Titulado</string>
+    <string name="ckRead">Leer</string>
+    <string name="ckSport">Deporte</string>
+    <string name="ckTravel">Viajar</string>
+    <string name="text_hint_lastname">Apellido</string>
+    <string name="text_Financial_Assistance">¿Tienes asistencia financiera?</string>
+    <string name="btnOk">Ok</string>
+    <string name="itmExit">Salida</string>
+    <string name="itmInicio">Inicio</string>
+    <string name="itmList">Lista</string>
+    <string name="text_delete">Eliminar</string>
+    <string name="AppVersion">1.0.0</string>
+    <string name="itmeEditarEliminar">Editar/Eliminar</string>
+
+
+</resources>
